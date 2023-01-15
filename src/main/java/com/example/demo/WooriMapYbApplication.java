@@ -9,6 +9,6 @@ public class WooriMapYbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WooriMapYbApplication.class, args);
 	}
-	//TEST GIT
+	//TEST GIT2
 
 }
